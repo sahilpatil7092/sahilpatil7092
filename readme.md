@@ -55,7 +55,6 @@ I enjoy building real-world solutions, exploring emerging technologies, and turn
 
 <h4 align="center">
 Hey, wait! 👋 Don’t forget to check out my social media handles 
-<img src="https://www.linkedin.com/in/sahil-patil-aa1543291/blob/main/images/Handshake.gif" height="30px">
-<img src="https://sahil-portfolio-murex.vercel.app/blob/main/images/Handshake.gif" height="30px">
+<img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Handshake.gif" height="30px">
 </h4>
 
