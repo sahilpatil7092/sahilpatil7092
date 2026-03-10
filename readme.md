@@ -4,8 +4,8 @@
 <img align="center" alt="gif" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/QdYVeDStxnrvfpmvef/giphy.gif">
 <img align="center" alt="gif" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif">
 
-## Hi, I’m Nishant 🙂  
-### AI / ML Engineer | Data Science | Deep Learning | UI/UX | Web Development
+## Hi, I’m Sahil 🙂  
+### AI / ML Engineer | Data Science | Deep Learning | Web Development
 
 </div>
 
@@ -47,7 +47,7 @@
 
 
 ### ✨ About Me
-I’m a **Computer Science graduate** currently working as an **AI/ML Engineer**, with a strong interest in **Machine Learning, Generative AI, and intelligent systems** 🤖.  
+I’m a **Computer Applications undergrad student** currently in my **final year**, with a strong interest in **Machine Learning, Generative AI, and intelligent systems** 🤖.  
 I enjoy building real-world solutions, exploring emerging technologies, and turning ideas into scalable products. Constantly learning, experimenting, and growing in the AI space.  
 
 🚀 Thanks for stopping by — see you around!
@@ -55,6 +55,7 @@ I enjoy building real-world solutions, exploring emerging technologies, and turn
 
 <h4 align="center">
 Hey, wait! 👋 Don’t forget to check out my social media handles 
-<img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Handshake.gif" height="30px">
+<img src="https://www.linkedin.com/in/sahil-patil-aa1543291/blob/main/images/Handshake.gif" height="30px">
+<img src="https://sahil-portfolio-murex.vercel.app/blob/main/images/Handshake.gif" height="30px">
 </h4>
 
