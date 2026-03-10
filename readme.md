@@ -39,11 +39,7 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nishant2116&include_all_commits=true&count_private=true&show_icons=true&bg_color=0,000000,130F40"/>
-&nbsp;&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant2116&layout=compact&langs_count=7&theme=tokyonight&bg_color=0,000000,130F40"/>
 
-</div>
 
 
 ### ✨ About Me
